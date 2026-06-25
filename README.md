@@ -177,5 +177,8 @@ Aplikasi Prediksi Tingkat Obesitas berhasil dibangun menggunakan algoritma Decis
 Selain memberikan hasil prediksi, aplikasi juga menyajikan visualisasi data yang membantu pengguna memahami distribusi data serta performa model dengan lebih mudah dan interaktif.
 
 ## Dokumentasi
-<img width="1600" height="789" alt="WhatsApp Image 2026-06-25 at 13 56 44" src="https://github.com/user-attachments/assets/b9a16497-c655-445e-9676-eba78e3c72d1" />
-<img width="1600" height="783" alt="image" src="https://github.com/user-attachments/assets/e2ebf540-1f8d-42ec-b8e7-f883a69bf8ed" />
+<img width="959" height="435" alt="image" src="https://github.com/user-attachments/assets/c862dc83-921c-4c5c-af40-88fe7fac88c2" />
+
+<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/0fee18b5-a2b0-4bc9-8e86-560c06fe81f4" />
+
+<img width="953" height="440" alt="image" src="https://github.com/user-attachments/assets/4ff8d4f5-eac7-4358-a031-fef5b969913a" />
